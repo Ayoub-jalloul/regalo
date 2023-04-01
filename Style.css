@@ -1,0 +1,14 @@
+*{margin:0px;
+ pading:0px;}
+html {
+  height: 100%;
+  width: 100%;
+}
+ul li {
+  float: left;
+  margin:20px;
+}
+
+    
+img{height:85px;
+   width:85px;
